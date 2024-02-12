@@ -1,9 +1,8 @@
 # ✨ Simple Retro ✨
 
-<center>
-<img src="https://raw.githubusercontent.com/simple-retro/.github/master/profile/logo-wide.png" height="300">
-</center>
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/simple-retro/.github/master/profile/logo-wide.png" height="300">
+</p>
 Simple Retro is a user-friendly website designed to facilitate Scrum Retrospective meetings. This tool is aimed at Agile teams practicing Scrum methodology, providing them with a platform to conduct effective retrospectives in a straightforward manner.
 
 ## 🔄 What is a Retrospective Meeting? 🔄
